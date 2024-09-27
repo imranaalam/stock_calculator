@@ -16,5 +16,14 @@
         "reward_ratio": 15.0,
         "sell_strategy": "Risk-Based",
         "sell_price": null
+    },
+    {
+        "stock_symbol": "PIA",
+        "total_shares": 1,
+        "buy_price": 0.01,
+        "risk_ratio": 5.0,
+        "reward_ratio": 10.0,
+        "sell_strategy": "Risk-Based",
+        "sell_price": 33.0
     }
 ]
